@@ -23,6 +23,12 @@ export const metadata: Metadata = {
     "squareup payments",
     "squareup payment", 
   ],
+
+   openGraph: {
+    type: 'website',
+    url: "",
+    siteName: "squareup"
+  }
 };
 
 export default function RootLayout({
