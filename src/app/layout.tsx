@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 
    openGraph: {
     type: 'website',
-    url: "",
+    url: "https://Squareuppayment.com",
     siteName: "squareup"
   }
 };
